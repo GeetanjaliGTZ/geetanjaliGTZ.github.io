@@ -42,7 +42,7 @@ My research spans **Biometrics, Computer Vision, Deep Learning, and Machine Lear
 ---
 
 ### 📝 Research Thesis
-**Title:** *Robust Biometric Segmentation and Recognition using Deep Learning and Foundation Models*
+**Title:** *Towards Reliable and Trustworthy Face-with-Mask-under-Expression Biometrics Using Iris and Forehead Creases Traits*
 
 **Summary:** Biometric systems are increasingly used for secure authentication in applications such as border control, financial transactions, and access management. However, existing systems face challenges due to variations in illumination, pose, sensor type, and presentation attacks. 
 
