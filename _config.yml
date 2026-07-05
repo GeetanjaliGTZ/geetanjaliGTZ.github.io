@@ -7,6 +7,8 @@ first_name: Geetanjali
 middle_name: 
 last_name: Sharma
 contact_note: "geetanjalisharma546@gmail.com"
+email: geetanjalisharma546@gmail.com        # <-- ADD THIS LINE
+cv: resume.json                             # <-- ADD THIS TO LINK YOUR CV ICON
 github_username: GeetanjaliGTZ
 linkedin_username: geetanjalisharma07
 scholar_userid: Np8VOOAAAAAJ # This is the string of letters in your Google Scholar URL
