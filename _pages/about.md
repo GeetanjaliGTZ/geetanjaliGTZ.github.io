@@ -5,7 +5,7 @@ permalink: /
 subtitle: Ph.D. Research Scholar at IIT Mandi
 
 profile:
-  align: right
+  align: top
   image: geetanjali.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
