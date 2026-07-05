@@ -6,7 +6,7 @@ subtitle: Ph.D. Research Scholar at IIT Mandi
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: geetanjali.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>SCEE, IIT Mandi</p>
