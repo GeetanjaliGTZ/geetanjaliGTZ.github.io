@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>SCEE, IIT Mandi</p>
     <p>Kamand Campus, Mandi</p>
-    <p>Himachal Pradesh, India - 175075</p>
+    <p>Himachal Pradesh, India - 175005</p>
 
 selected_papers: false # We will list your publications cleanly below using Markdown formatting instead
 social: true # includes social icons at the bottom of the page
@@ -29,7 +29,7 @@ latest_posts:
 
 I am a Ph.D. Research Scholar in the School of Computing and Electrical Engineering (SCEE) at the **Indian Institute of Technology (IIT) Mandi**, Himachal Pradesh, India. I am privileged to be advised by **Dr. Aditya Nigam** and co-advised by **Dr. Raghavendra Ramachandra**.
 
-My email address for academic correspondence is: **d19062@students.iitmandi.ac.in**.
+My email address for academic correspondence is: **d19062@students.iitmandi.ac.in**, **geetanjalisharma546@gmail.com**.
 
 ### 🔍 Research Interests
 My research spans **Biometrics, Computer Vision, Deep Learning, and Machine Learning**, with a specialized focus on biometric segmentation and recognition. My work primarily explores:
