@@ -7,13 +7,13 @@ subtitle: Ph.D. Research Scholar at IIT Mandi
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: True # crops the image to make it circular
   more_info: >
     <p>SCEE, IIT Mandi</p>
     <p>Kamand Campus, Mandi</p>
     <p>Himachal Pradesh, India - 175075</p>
 
-selected_papers: false # We will list your publications cleanly below using Markdown formatting instead
+selected_papers: True # We will list your publications cleanly below using Markdown formatting instead
 social: true # includes social icons at the bottom of the page
 
 announcements:
