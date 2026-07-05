@@ -5,9 +5,9 @@ permalink: /
 subtitle: Ph.D. Research Scholar at IIT Mandi
 
 profile:
-  align: top
+  align: right
   image: geetanjali.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>SCEE, IIT Mandi</p>
     <p>Kamand Campus, Mandi</p>
