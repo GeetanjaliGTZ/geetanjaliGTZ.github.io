@@ -25,7 +25,7 @@ latest_posts:
   enabled: false
   scrollable: False 
   limit: 3 
-
+  ---
 
 I am a Ph.D. Research Scholar in the School of Computing and Electrical Engineering (SCEE) at the **Indian Institute of Technology (IIT) Mandi**, Himachal Pradesh, India. I am privileged to be advised by **Dr. Aditya Nigam** and co-advised by **Dr. Raghavendra Ramachandra**.
 
