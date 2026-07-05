@@ -16,10 +16,10 @@ profile:
 selected_papers: false # We will list your publications cleanly below using Markdown formatting instead
 social: true # includes social icons at the bottom of the page
 
-announcements:
-  enabled: false # includes a list of news items
-  scrollable: true 
-  limit: 5 
+#announcements:
+#  enabled: false # includes a list of news items
+#  scrollable: false 
+#  limit: 5 
 
 latest_posts:
   enabled: false
