@@ -2,33 +2,75 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. Research Scholar at IIT Mandi
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>SCEE, IIT Mandi</p>
+    <p>Kamand Campus, Mandi</p>
+    <p>Himachal Pradesh, India - 175075</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # We will list your publications cleanly below using Markdown formatting instead
 social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  scrollable: true 
+  limit: 5 
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: true 
+  limit: 3 
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. Research Scholar in the School of Computing and Electrical Engineering (SCEE) at the **Indian Institute of Technology (IIT) Mandi**, Himachal Pradesh, India. I am privileged to be advised by **Dr. Aditya Nigam** and co-advised by **Dr. Raghavendra Ramachandra**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My email address for academic correspondence is: **d19062@students.iitmandi.ac.in**.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+### 🔍 Research Interests
+My research spans **Biometrics, Computer Vision, Deep Learning, and Machine Learning**, with a specialized focus on biometric segmentation and recognition. My work primarily explores:
+* Iris biometrics and novel forehead crease biometrics.
+* Multimodal biometric systems (NIR and Visible-Light modalities).
+* Presentation attack detection (spoofing mitigation).
+* Fairness analysis and demographic bias evaluation.
+* Foundation model–based biometric recognition (e.g., DINOv2, SAM).
+
+---
+
+### 📝 Research Thesis
+**Title:** *Robust Biometric Segmentation and Recognition using Deep Learning and Foundation Models*
+
+**Summary:** Biometric systems are increasingly used for secure authentication in applications such as border control, financial transactions, and access management. However, existing systems face challenges due to variations in illumination, pose, sensor type, and presentation attacks. 
+
+My research tackles these problems by developing robust biometric segmentation frameworks utilizing advanced deep learning architectures, transformer-based networks, and multimodal approaches. Additionally, I investigate fairness and demographic bias in iris recognition systems across distinct sensor modalities to help build secure, interpretable, and reliable biometric systems suitable for real-world deployment.
+
+---
+
+### 🚀 Key Contributions
+* **Biometric Segmentation:** Developed deep learning–based frameworks for iris and forehead crease recognition under challenging imaging conditions.
+* **Cross-Modal Reliability:** Proposed methods for robust biometric recognition across multiple modalities (NIR and VIS) to improve overall system reliability via learnable fusion architectures (**FISNET**).
+* **Novel Traits:** Investigated the uniqueness, information content, and verification reliability of forehead creases as a novel biometric trait for identity verification (**FH-SSTNet**).
+* **Anti-Spoofing & Foundation Models:** Developed robust models for iris presentation attack detection leveraging advanced architectures like fine-tuned DINOv2 and ResNet-50.
+* **Fairness & Bias Analysis:** Evaluated the impact of iris pigmentation variations and sensor differences on performance bias in visible iris verification systems.
+
+---
+
+### 📚 Publications
+
+#### 📄 Journal Articles
+* **Geetanjali**, Gaurav Jaswal, Aditya Nigam, Raghavendra Ramachandra, “FISNET: A Learnable Fusion-based Iris Segmentation Network Improving Robustness Across NIR and VIS Modalities,” *IEEE Access*, 2025.
+
+#### 🏛️ Conference & Workshop Proceedings
+* **Geetanjali**, Gaurav Jaswal, Aditya Nigam, Raghavendra Ramachandra, “CLRecogEye: Curriculum Learning towards Exploiting Convolution Features for Dynamic Iris Recognition,” *International Symposium on Visual Computing (ISVC)*, 2025.
+* **Geetanjali**, Dev Nagaich, Gaurav Jaswal, Aditya Nigam, Raghavendra Ramachandra, “VREye-SAM: Virtual Reality Non-Frontal Iris Segmentation using Foundational Models with Uncertainty-Weighted Loss,” *IEEE International Joint Conference on Biometrics (IJCB)*, 2025.
+* **Geetanjali**, Gaurav Jaswal, Aditya Nigam, Raghavendra Ramachandra, “FH-SSTNet: Forehead Creases Based User Verification using Spatio-Spatial Temporal Network,” *International Workshop on Biometrics and Forensics*.
+* **Geetanjali**, Shubham Ashwani, Gaurav Jaswal, Aditya Nigam, Raghavendra Ramachandra, “Towards Robust Iris Presentation Attack Detection via Fine-Tuned DINOv2 and ResNet-50 Models,” *AI for Forensics and Biometric Applications Conference*, 2025.
+* **Geetanjali**, Abhishek Tandon, Gaurav Jaswal, Aditya Nigam, Raghavendra Ramachandra, “Impact of Iris Pigmentation on Performance Bias in Visible Iris Verification Systems,” *IAPR FAIRBIO Workshop, ICPR*, 2024.
+
+#### 📨 Submitted / Under Review
+* **Geetanjali**, Gaurav Jaswal, Aditya Nigam, Raghavendra Ramachandra, “Do Forehead Creases Identify Us? Analyzing Their Uniqueness, Information Content, and Verification Reliability,” *Submitted to ICPR*, 2026.
+* **Geetanjali**, Gaurav Jaswal, Aditya Nigam, Raghavendra Ramachandra, “Domain-Adaptive Face Models for Forehead Crease Recognition,” *Submitted to International Workshop on Biometrics and Forensics*, 2026.
