@@ -1,5 +1,5 @@
 # -----------------------------------------------------------------------------
-# Site settings
+# Site settingsLayout
 # -----------------------------------------------------------------------------
 
 title: Geetanjali # the website title (if blank, full name will be used instead)
@@ -95,8 +95,6 @@ bib_search: true
 navbar_links:
   - title: about
     url: /
-  - title: publications
-    url: /publications/
 # Dimensions
 max_width: 930px
 
