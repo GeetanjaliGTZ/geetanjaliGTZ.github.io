@@ -91,6 +91,11 @@ socials_in_search: true
 posts_in_search: true
 bib_search: true
 
+# MANUALLY CONTROL NAVBAR LINKS (This removes everything else)
+navbar_links:
+  - title: about
+    url: /
+
 # Dimensions
 max_width: 930px
 
@@ -187,15 +192,15 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
-    output: true
+    output: false
   projects:
-    output: true
+    output: false
   teachings:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
