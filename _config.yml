@@ -11,7 +11,7 @@ email: geetanjalisharma546@gmail.com        # <-- ADD THIS LINE
 cv: resume.json                             # <-- ADD THIS TO LINK YOUR CV ICON
 github_username: GeetanjaliGTZ
 linkedin_username: geetanjalisharma07
-scholar_userid: Np8VOOAAAAAJ # This is the string of letters in your Google Scholar URL
+scholar_userid: qc6CJjYAAAAJ # This is the string of letters in your Google Scholar URL
 description: "Ph.D. Research Scholar in SCEE at IIT Mandi, Himachal Pradesh, India"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
