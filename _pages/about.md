@@ -17,7 +17,7 @@ selected_papers: false # We will list your publications cleanly below using Mark
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true 
   limit: 5 
 
